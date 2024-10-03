@@ -1,0 +1,11 @@
+{
+  "name": <plugin-name>,
+  "version": "0.1.0",
+  "main": "plugin/plugin.js",
+  "scripts": {
+    "test": "echo \"TODO: Implement tests\" && exit 1"
+  },
+  "keywords": [
+    "rjs-plugin"
+  ]
+}
