@@ -1,0 +1,13 @@
+{
+  "name": "rjs-plugin--<NAME>",
+  "version": "0.1.0",
+  "keywords": [
+    "rjs-plugin"
+  ],
+  "main": "plugin/plugin.js",
+  "scripts": {
+    "prepare": "npm i -D @rapidjs.org/rjs",
+    "test": "echo \"TODO: Implement tests\" && exit 1",
+    "test-app": "npx rjs serve -D -W ./test-app"
+  }
+}
